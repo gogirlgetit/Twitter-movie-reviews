@@ -85,6 +85,7 @@ def replaceTwoOrMore(s):
 #end
 
 
+# Get Tweet sentiment
 def getSentiment(tweet):
     positive_sentiment = 0;
     negative_sentiment = 0;
